@@ -16,7 +16,7 @@ tags:
 
 \`"version":"1.1.3"\`
 
-![Imagen de prueba](https://res.cloudinary.com/jud1/image/upload/v1591563986/netlify/contact-image_hhano4.png "Imagen de prueba")
+![Imagen de prueba](https://res.cloudinary.com/jud1/image/upload/v1591565964/netlify/figure-index-tags_rmv1gq.png "Imagen de prueba")
 
 ```html
 <div>
