@@ -14,7 +14,7 @@ tags:
 ---
 > Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae harum omnis dolorem ullam, voluptatem quae debitis, fuga perspiciatis ea dignissimos cum aliquid a aperiam distinctio at cupiditate tenetur delectus? Accusamus?
 
-`"version":"1.1.3"```
+\`"version":"1.1.3"\`
 
 ![Imagen de prueba](/img/jumbotron.jpg "Imagen de prueba")
 
