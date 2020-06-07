@@ -13,6 +13,7 @@ media_library:
   config:
     cloud_name: jud1
     api_key: 514772486589332
+    output_filename_only: true
 
 collections:
   - name: "blog"
