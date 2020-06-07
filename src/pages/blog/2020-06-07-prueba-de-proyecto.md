@@ -7,7 +7,7 @@ description: "Primera descripcion corta o resumen del proyecto: Lorem ipsum
   voluptatem quae debitis, fuga perspiciatis ea dignissimos cum aliquid a
   aperiam distinctio at cupiditate tenetur delectus? Accusamus?"
 featuredpost: false
-featuredimage: /img/jumbotron.jpg
+featuredimage: /img/img-project-test.jpg
 tags:
   - Proyecto
   - Maqueta html
