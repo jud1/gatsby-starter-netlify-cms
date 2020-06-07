@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'JUD Portafolio',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Sitio de portafolio de José Manuel Ulloa Díaz, alias "JUD", enfocado a mostrar sus capacidades como desarrollador y proyectos en los que ha trabajado',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
