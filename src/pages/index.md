@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: JUD TITLE
-image: /img/home-jumbotron.jpg
+image: /img/bg-hero-red
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
